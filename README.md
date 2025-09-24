@@ -1,6 +1,6 @@
 # Unfinished Google Doc Clone (Won't Complete)
 
-I got what I needed to learn from this, so I am moving on to other projects. Main learning lessons are:
+I got what I needed to learn from [this](https://www.youtube.com/watch?v=gq2bbDmSokU), so I am moving on to other projects. Main learning lessons are:
 
 - ShadCN is a nice component library, and they are pretty nice to get UI up and running quickly. ShadCN also has helper functions for semi-dynamic classes (the cn function).
 
